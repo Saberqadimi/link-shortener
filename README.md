@@ -5,7 +5,7 @@
 A Laravel package for shortening URLs with analytics support. 🚀
 
 ## Demo 
-![Demo](https://github.com/user-attachments/assets/2cdafdd1-7373-4181-90f6-021976b5ef5f)
+[![Demo](https://github.com/user-attachments/assets/2cdafdd1-7373-4181-90f6-021976b5ef5f)](https://github.com/user-attachments/assets/f6d86725-0237-49f1-a8ef-21a1c1c93547)
 ## 📥 Installation
 
 You can install this package via Composer:
