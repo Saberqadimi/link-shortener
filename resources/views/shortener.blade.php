@@ -29,7 +29,7 @@
     </div>
     <div class="shadow-effect"></div>
     <div class="header">
-        <div class="logo">laravel/link-shortener</div>
+        <div class="logo">saberqadimi/link-shortener</div>
         <div class="toggleMenu"></div>
     </div>
     
