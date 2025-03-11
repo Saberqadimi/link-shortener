@@ -2,6 +2,14 @@
 
 ![img.png](img.png)
 
+[![Latest Stable Version](http://poser.pugx.org/saberqadimi/link-shortener/v)](https://packagist.org/packages/saberqadimi/link-shortener) 
+[![Total Downloads](http://poser.pugx.org/saberqadimi/link-shortener/downloads)](https://packagist.org/packages/saberqadimi/link-shortener) 
+[![Latest Unstable Version](http://poser.pugx.org/saberqadimi/link-shortener/v/unstable)](https://packagist.org/packages/saberqadimi/link-shortener) 
+[![License](http://poser.pugx.org/saberqadimi/link-shortener/license)](https://packagist.org/packages/saberqadimi/link-shortener) 
+[![PHP Version Require](http://poser.pugx.org/saberqadimi/link-shortener/require/php)](https://packagist.org/packages/saberqadimi/link-shortener)
+
+
+
 A Laravel package for shortening URLs with analytics support. 🚀
 
 ## Demo 
